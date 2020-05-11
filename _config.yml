@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Vettrivel Kathirvelu"
-  avatar           : "/assets/images/vettri.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/favicons/android-chrome-192x192.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : # "Just an another **Programmer**"
   location         : 
   email            :
