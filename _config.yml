@@ -13,7 +13,6 @@
 #theme                     : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-staticman_url            : https://vettri-staticman.herokuapp.com/v2/entry/vkathirvelu/vkathirvelu.github.io/master/comments
 
 # Site Settings
 locale                   : "en-US"
@@ -34,7 +33,7 @@ comments:
   provider               : "staticman_v2" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   staticman:
     branch               : "master" # "master"
-    endpoint             : https://vettri-staticman.herokuapp.com/v2/entry/vkathirvelu/vkathirvelu.github.io/master/comments
+    endpoint             : https://vettri-staticman.herokuapp.com/v2/entry/
 reCaptcha:
   siteKey                : 6Ldp3g8aAAAAAOtt7fcTqbMbnx2zUXyI7vrvVPgc
   secret                 : CAHyPwwZud3u9GBjyQz7r7yCOpVUMZT7Yp8QcSrM9CdxMI3Ml0lBBM2q0qVOvb11lYsxROM6YfjutJkNBcrT8MSI3wfzyGq+HXyjVAd3A8XLvp+k690+ztEn1WkwOUiGsw61uuBEmmlcUld6WxjpNgvw2ftUUSxdzhCR2DVCDtvyWSm34b7SMQ62DLHbE5h97Tno8+V4kARpfQPkqOCJilt7VnS5eCKfMGehtSSPVY0oOuPfvpfHqDJdPGvcG6riujP2xcWUc+0kx1m4yqywm8uCCeMeaG75khK+PUNLOI63UbmF2sVF0B120ivqzOOJn+THpGRRxLHRGtcOD4S7R5jQZw2fgzBiKACEqtoSwO8xmT0vKbiABC0ziGJLlCAV6OerQSN8ColPxBvX5h78Vu9aW08N8NqK1FMwy8/I4j9W0Nvek9qn/9eMhvAivnbckNbResotFCbuVInQBYTzh6QhXwBgS6NdmeMXJzeK3V4HouTSNuurWbL7vrvt8CZt9fM0nQcJEgzwEDenDuIjBnYV/YYUNlGl48WU8xU0QcCfaA0nDex/PGPuoKuxybWwdMmUL/rACPOrldrlxg9iCWD7EJA03NFY2UeOocrzxucUofCyjMmkk3x3tROBbg6hX2EsYco4HomPbkJfvLsflgHyI5kDn11wTxek/iAQgF4=
