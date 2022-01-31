@@ -1,6 +1,6 @@
 ---
 layout :  default
-title : Java coding problems 
+title : Test Post 
 ---
 
 Test Post
