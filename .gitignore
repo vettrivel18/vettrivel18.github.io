@@ -28,6 +28,8 @@ codekit-config.json
 _asset_bundler_cache
 _site
 
+#Idea
+.idea/
 #Others
 examples
 _docs

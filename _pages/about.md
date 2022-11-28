@@ -1,6 +1,7 @@
 ---
-layout: categories
+layout: single
 permalink: /about/
+author_profile: true
 title: "About"
 layouts_gallery:
   - url: /assets/images/mm-layout-splash.png
@@ -12,8 +13,7 @@ layouts_gallery:
   - url: /assets/images/mm-layout-archive.png
     image_path: /assets/images/mm-layout-archive.png
     alt: "archive layout example"
-last_modified_at: 2020-03-23T14:07:54-04:00
-toc: true
+last_modified_at: 2022-11-26T14:07:54-04:00
 ---
 
-This page is about me
+Full-Stack Developer (Springboot, ReactJS , Redux, Kafka, CouchbaseDB, Kubernetes, Docker, GCP)
