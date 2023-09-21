@@ -1,4 +1,4 @@
-learn-java:
+java-notes:
   - title: "Introduction"
     children:
       - title: "Tokens and Variables"

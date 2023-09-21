@@ -6,8 +6,8 @@ last_modified_at: 2023-06-22T12:42:38-04:00
 toc: true
 toc_sticky: true
 sidebar:
-  title: "Learn Java"
-  nav: learn-java
+  title: "Java Notes"
+  nav: java-notes
 ---
 ## Operators
 
