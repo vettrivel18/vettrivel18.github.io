@@ -2,14 +2,13 @@
 author_profile: false
 permalink: /java/operators/
 title: "Operators"
-last_modified_at: 2023-06-22T12:42:38-04:00
+last_modified_at: 2023-09-22T12:42:38-04:00
 toc: true
 toc_sticky: true
 sidebar:
   title: "Java Notes"
   nav: java-notes
 ---
-## Operators
 
 An Operator is a symbol that allows a program to perform certain operation (like arithmetic or logical)
 on data and variables

@@ -5,3 +5,7 @@ java-notes:
         url: /java/tokens-and-variables/
       - title: "Operators"
         url: /java/operators/
+      - title: "Methods"
+        url: /java/methods/
+      - title: "Branch Statements or Decision Statements"
+        url: /java/branch-statements/
