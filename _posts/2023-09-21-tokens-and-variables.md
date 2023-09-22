@@ -1,6 +1,6 @@
 ---
 author_profile: false
-permalink: /java-tokens-and-variables/
+permalink: /java/tokens-and-variables/
 title: "Tokens and variables"
 last_modified_at: 2023-06-22T12:42:38-04:00
 toc: true

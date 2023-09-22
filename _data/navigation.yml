@@ -2,6 +2,6 @@ java-notes:
   - title: "Introduction"
     children:
       - title: "Tokens and Variables"
-        url: /java-tokens-and-variables
+        url: /java/tokens-and-variables/
       - title: "Operators"
-        url: /java-operators
+        url: /java/operators/
