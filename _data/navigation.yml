@@ -7,5 +7,7 @@ java-notes:
         url: /java/operators/
       - title: "Methods"
         url: /java/methods/
-      - title: "Branch Statements or Decision Statements"
-        url: /java/branch-statements/
+  - title: "Control Statements"
+    children:
+      - title: "Conditional Statements"
+        url: /java/conditional-statements/
