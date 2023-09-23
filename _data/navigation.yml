@@ -11,3 +11,5 @@ java-notes:
     children:
       - title: "Conditional Statements"
         url: /java/conditional-statements/
+      - title: "For Loop"
+        url: /java/for-loop-statement/

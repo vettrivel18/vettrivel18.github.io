@@ -1,7 +1,7 @@
 ---
 author_profile: false
 permalink: /java/conditional-statements/
-title: "Branch Statements or Decision Statements"
+title: "Branch Statements or Conditional Statements"
 last_modified_at: 2023-09-22T12:42:38-04:00
 toc: true
 toc_sticky: true
