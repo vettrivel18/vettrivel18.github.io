@@ -2,6 +2,10 @@
 author_profile: false
 permalink: /java/methods/
 title: "Methods"
+header:
+  video:
+    id: 5fsufczXJ4U
+    provider: youtube
 last_modified_at: 2023-09-21T12:42:38-04:00
 toc: true
 toc_sticky: true
