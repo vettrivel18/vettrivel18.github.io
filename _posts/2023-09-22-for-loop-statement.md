@@ -11,6 +11,9 @@ sidebar:
 mermaid: true     
 
 ---
+
+{% include video id="utTDUygzjeY" provider="youtube" %}
+
 # For loop
 ## Syntax
 ```java

@@ -12,6 +12,8 @@ mermaid: true
 
 ---
 
+{% include video id="3Y05EXxepOE" provider="youtube" %}
+
 These Statements allow you to create programs where decisions are taken based on the expression
 specified in the statements
 1. ```if``` statement
